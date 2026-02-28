@@ -106,11 +106,7 @@
 
 <div align="center">
 
-
-
 </div>
-
-
 
 <div align="center">
 <br/>
@@ -123,11 +119,7 @@
 
 <div align="center">
 
-
-
 </div>
-
-
 <div align="center">
 
 [![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=R-Jhere&theme=green&hide_border=false&bg_color=0a0a0a&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4120)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -136,11 +128,7 @@
 
 <div align="center">
 
-
-
 </div>
-
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -151,14 +139,9 @@
 
 <div align="center">
 
-
-
 </div>
 
-
 <div align="center">
-
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Intelligence+is+the+ability+to+avoid+doing+work,+yet+getting+the+work+done.&author=Linus+Torvalds&border=true&border_color=00ff41" />
 
 <br/><br/>
@@ -167,8 +150,4 @@
 
 <div align="center">
 
-
-
 </div>
-
-
