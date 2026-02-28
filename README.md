@@ -1,45 +1,68 @@
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━ HEADER BANNER ━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f5ff,50:7b2ff7,100:ff006e&height=220&section=header&text=R%20J%20H%20E%20R%20E&fontSize=72&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=⚔%20Full%20Stack%20Dev%20%20▸▸%20%20Hackathon%20Builder%20%20▸▸%20%20Open%20Source%20%20⚔&descSize=15&descAlignY=62&animation=twinkling&font=Orbitron" width="100%"/>
+<img src="./assets/header-banner.svg" width="100%"/>
+</div>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━ TYPING ANIMATION ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
 <br/>
-  
 
-
-[![](https://visitcount.itsvg.in/api?id=R-Jhere&icon=6&color=6)](https://visitcount.itsvg.in)
-![GitHub followers](https://img.shields.io/github/followers/R-Jhere?style=social)
-![GitHub stars](https://img.shields.io/github/stars/R-Jhere?style=social)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=45&lines=%F0%9F%8E%AE+Level+22+Developer+%E2%80%A2+XP%3A+Building+%26+Shipping+Daily;%E2%9A%94+Quests%3A+Full+Stack+%7C+System+Design+%7C+Open+Source;%F0%9F%9A%80+Status%3A+Compiling+dreams+into+production+code..." alt="Typing SVG" /></a>
 
 </div>
 
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━ RPG STAT BADGES ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
+<div align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/⚔_CLASS-Full_Stack_Developer-7b2ff7?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🎮_LEVEL-22-00f5ff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🌍_SERVER-India-ff006e?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🎯_XP-∞_&_Counting-39d353?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
+
+[![](https://visitcount.itsvg.in/api?id=R-Jhere&icon=6&color=6)](https://visitcount.itsvg.in)
+![GitHub followers](https://img.shields.io/github/followers/R-Jhere?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0d1117&color=7b2ff7)
+![GitHub stars](https://img.shields.io/github/stars/R-Jhere?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0d1117&color=ff006e)
+
+</div>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━ CHARACTER CARD ━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<br/>
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-```yaml
+```js
+// 🎮 player_card.js
 
-name: Rahul Joshi
-located_in: India
-current_job: Full-Stack Developer
+const RahulJoshi = {
+    pronouns: "he" | "him",
+    location: "India 🇮🇳",
+    education: "Computer Science Engineering 🎓",
 
-education:
-  - Computer Science Engineering
+    class: "Full-Stack Developer",
+    skillTree: {
+        frontend:  "React ⟐ Next.js ⟐ Tailwind",
+        backend:   "Node.js ⟐ Express ⟐ NestJS",
+        database:  "MongoDB ⟐ PostgreSQL ⟐ Redis",
+        cloud:     "AWS ⟐ Docker ⟐ Vercel"
+    },
 
-fields_of_interests:
+    currentQuests: [
+        "⚡ Mastering System Design",
+        "🏗️ Building Scalable Web Apps",
+        "🏆 Winning Hackathons",
+        "🌱 Contributing to Open Source"
+    ],
 
-  - Web Development
-  - System Design
-  - Open Source
-  - Hackathons
-
-currently_learning:
-
-  - Advanced MERN Stack
-  - System Design
-
-hobbies:
-
-  - Contributing to Open Source
-  - Competing in Hackathons
-
+    dailyRoutine: ["Code", "Build", "Ship", "Repeat 🔁"]
+};
 ```
 
 <div align="center">
@@ -48,43 +71,62 @@ hobbies:
 
 ---
 
-## Connect With Me
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━ CONNECT / SOCIALS ━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37c5-4b59-b830-58b02bb8e02f.gif" width="30"/> Join My Party
 
 <div align="center">
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Rahul-Joshi)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Rahul-Joshi)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahuljoshi.uk02@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R-Jhere)
+<a href="https://linkedin.com/in/Rahul-Joshi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=00f5ff&color=0d1117&labelColor=0d1117" alt="LinkedIn"/></a>
+<a href="https://x.com/Rahul-Joshi"><img src="https://img.shields.io/badge/𝕏_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=00f5ff&color=0d1117&labelColor=0d1117" alt="X"/></a>
+<a href="mailto:rahuljoshi.uk02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=ff006e&color=0d1117&labelColor=0d1117" alt="Gmail"/></a>
+<a href="https://github.com/R-Jhere"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=7b2ff7&color=0d1117&labelColor=0d1117" alt="GitHub"/></a>
+
+<br/><br/>
+
+> 💬 *"Let's build something epic together — DMs are always open!"*
 
 <br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35"/> Tech Stack
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━ TECH STACK ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35"/> Skill Tree & Arsenal
 
 <div align="center">
 
-### ⚡ Languages
+<img src="https://img.shields.io/badge/⚔_WEAPONS_(Languages)-00f5ff?style=flat-square&labelColor=0d1117&color=0d1117" />
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,html,css,java&perline=8" />
 
-### 🎨 Frontend
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🛡_ARMOR_(Frontend)-7b2ff7?style=flat-square&labelColor=0d1117&color=0d1117" />
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,vite,redux&perline=8" />
 
-### 🔧 Backend
+<br/><br/>
+
+<img src="https://img.shields.io/badge/⚙_ENGINE_(Backend)-ff006e?style=flat-square&labelColor=0d1117&color=0d1117" />
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,flask&perline=8" />
 
-### 🗄️ Databases
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🏰_DUNGEONS_(Databases)-39d353?style=flat-square&labelColor=0d1117&color=0d1117" />
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,sqlite,supabase,postgres&perline=8" />
 
-### ☁️ Cloud & Tools
+<br/><br/>
+
+<img src="https://img.shields.io/badge/☁_CLOUD_&_INVENTORY_(Tools)-00f5ff?style=flat-square&labelColor=0d1117&color=0d1117" />
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,git,github,figma,docker,linux&perline=8" />
 
 <br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500"/>
 </div>
 
 ---
