@@ -75,13 +75,13 @@
 
 <img src="https://img.shields.io/badge/%E2%9A%94_WEAPONS_(Languages)-00ff41?style=flat-square&labelColor=0a0a0a&color=0a0a0a" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,html,css,java&perline=8" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,html,css&perline=8" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/%F0%9F%9B%A1_ARMOR_(Frontend)-00ff41?style=flat-square&labelColor=0a0a0a&color=0a0a0a" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,vite,redux&perline=8" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,vite&perline=8" />
 
 <br/><br/>
 
@@ -93,7 +93,7 @@
 
 <img src="https://img.shields.io/badge/%F0%9F%8F%B0_DUNGEONS_(Databases)-00ff41?style=flat-square&labelColor=0a0a0a&color=0a0a0a" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,sqlite,supabase,postgres&perline=8" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,postgres&perline=8" />
 
 <br/><br/>
 
