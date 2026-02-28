@@ -75,13 +75,13 @@
 
 <img src="https://img.shields.io/badge/%E2%9A%94_WEAPONS_(Languages)-00ff41?style=flat-square&labelColor=0a0a0a&color=0a0a0a" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,html,css&perline=8" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,html,css,java&perline=8" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/%F0%9F%9B%A1_ARMOR_(Frontend)-00ff41?style=flat-square&labelColor=0a0a0a&color=0a0a0a" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,vite&perline=8" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,vite,redux&perline=8" />
 
 <br/><br/>
 
@@ -93,7 +93,7 @@
 
 <img src="https://img.shields.io/badge/%F0%9F%8F%B0_DUNGEONS_(Databases)-00ff41?style=flat-square&labelColor=0a0a0a&color=0a0a0a" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,postgres&perline=8" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,sqlite,supabase,postgres&perline=8" />
 
 <br/><br/>
 
@@ -115,13 +115,9 @@
 <div align="center">
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=R-Jhere&theme=chartreuse_dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0a0a0a&title_color=00ff41&icon_color=00ff41&text_color=00ff41&border_color=00ff41" height="190"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Jhere&theme=chartreuse_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0a0a0a&title_color=00ff41&text_color=00ff41&border_color=00ff41" height="190"/>
-
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=R-Jhere&theme=dark&hide_border=false&background=0a0a0a&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=00ff41&sideNums=00ff41&dates=006600&border=00ff41" height="190"/>
+<img src="https://streak-stats.demolab.com/?user=R-Jhere&theme=dark&hide_border=false&background=0a0a0a&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=00ff41&sideNums=00ff41&dates=006600&border=00ff41" height="190"/>
 
 </div>
 
