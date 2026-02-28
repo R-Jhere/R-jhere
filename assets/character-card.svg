@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 550" fill="none">
+
+  <defs>
+    <!-- Scanline overlay pattern -->
+    <pattern id="scanlines" patternUnits="userSpaceOnUse" width="820" height="4">
+      <rect width="820" height="2" fill="transparent"/>
+      <rect y="2" width="820" height="2" fill="rgba(0,0,0,0.08)"/>
+    </pattern>
+
+    <!-- Glow filter for green text -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Subtle shadow for window -->
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#00ff41" flood-opacity="0.15"/>
+    </filter>
+
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&amp;display=swap');
+
+      .terminal-text {
+        font-family: 'Fira Code', 'Courier New', monospace;
+        font-size: 13px;
+        fill: #00ff41;
+      }
+      .prompt {
+        font-family: 'Fira Code', 'Courier New', monospace;
+        font-size: 13px;
+        fill: #00cc33;
+        font-weight: 700;
+      }
+      .prompt-user { fill: #00ff41; }
+      .prompt-at { fill: #006622; }
+      .prompt-host { fill: #00cc33; }
+      .prompt-colon { fill: #555555; }
+      .prompt-path { fill: #00aaff; }
+      .prompt-dollar { fill: #00ff41; }
+      .command { fill: #ffffff; }
+      .output { fill: #00ff41; }
+      .output-dim { fill: #009926; }
+      .arrow { fill: #00cc33; }
+      .emoji { font-family: 'Segoe UI Emoji', 'Noto Color Emoji', 'Apple Color Emoji', sans-serif; font-size: 13px; }
+      .title-text {
+        font-family: 'Press Start 2P', 'Fira Code', monospace;
+        font-size: 11px;
+        fill: #00ff41;
+      }
+      .title-bar-text {
+        font-family: 'Fira Code', monospace;
+        font-size: 12px;
+        fill: #666666;
+      }
+
+      /* Blinking cursor */
+      @keyframes blink {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+      .cursor {
+        animation: blink 1s step-end infinite;
+      }
+
+      /* Typing glow pulse */
+      @keyframes glow-pulse {
+        0%, 100% { filter: url(#glow); opacity: 0.9; }
+        50% { filter: none; opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <!-- ══════════════ WINDOW FRAME ══════════════ -->
+
+  <!-- Outer border -->
+  <rect x="0" y="0" width="820" height="550" rx="12" ry="12" fill="#0a0a0a" stroke="#00ff41" stroke-width="1.5" filter="url(#shadow)"/>
+
+  <!-- Title bar background -->
+  <rect x="1" y="1" width="818" height="38" rx="11" ry="11" fill="#111111"/>
+  <rect x="1" y="28" width="818" height="12" fill="#111111"/>
+  <!-- Title bar bottom border -->
+  <line x1="1" y1="39" x2="819" y2="39" stroke="#1a1a1a" stroke-width="1"/>
+
+  <!-- Traffic light buttons -->
+  <circle cx="22" cy="20" r="7" fill="#ff5f56" stroke="#e0443e" stroke-width="0.5"/>
+  <circle cx="42" cy="20" r="7" fill="#ffbd2e" stroke="#dea123" stroke-width="0.5"/>
+  <circle cx="62" cy="20" r="7" fill="#27c93f" stroke="#1aab29" stroke-width="0.5"/>
+
+  <!-- Title text -->
+  <text x="410" y="24" text-anchor="middle" class="title-bar-text">rahul@dev: ~/character_card — bash</text>
+
+  <!-- Terminal body -->
+  <rect x="1" y="39" width="818" height="510" rx="0" ry="0" fill="#0a0a0a"/>
+  <rect x="1" y="538" width="818" height="12" rx="0" ry="12" fill="#0a0a0a"/>
+
+  <!-- Scanline overlay -->
+  <rect x="1" y="39" width="818" height="481" rx="0" fill="url(#scanlines)" opacity="0.5"/>
+
+  <!-- ══════════════ TERMINAL CONTENT ══════════════ -->
+
+  <!-- ASCII art header -->
+  <text x="30" y="72" class="output-dim" style="font-family:'Fira Code',monospace;font-size:10px;">╔══════════════════════════════════════════════════════════════════════════════════════╗</text>
+  <text x="30" y="88" class="output" style="font-family:'Press Start 2P',monospace;font-size:10px;letter-spacing:2px;" filter="url(#glow)">
+    <tspan x="180" dy="0">▓▓  CHARACTER  CARD  ▓▓</tspan>
+  </text>
+  <text x="30" y="104" class="output-dim" style="font-family:'Fira Code',monospace;font-size:10px;">╚══════════════════════════════════════════════════════════════════════════════════════╝</text>
+
+  <!-- Line 1: whoami -->
+  <text y="135" class="terminal-text">
+    <tspan x="30" class="prompt-user">rahul</tspan><tspan class="prompt-at">@</tspan><tspan class="prompt-host">dev</tspan><tspan class="prompt-colon">:</tspan><tspan class="prompt-path">~</tspan><tspan class="prompt-dollar">$ </tspan><tspan class="command">whoami</tspan>
+  </text>
+  <text y="155" x="30" class="output">  ► Rahul Joshi (he/him)</text>
+  <text y="175" x="30" class="output">  ► <tspan class="emoji">📍</tspan> India <tspan class="emoji">🇮🇳</tspan></text>
+  <text y="195" x="30" class="output">  ► <tspan class="emoji">🎓</tspan> Computer Science Engineering</text>
+
+  <!-- Line 2: cat class -->
+  <text y="225" class="terminal-text">
+    <tspan x="30" class="prompt-user">rahul</tspan><tspan class="prompt-at">@</tspan><tspan class="prompt-host">dev</tspan><tspan class="prompt-colon">:</tspan><tspan class="prompt-path">~</tspan><tspan class="prompt-dollar">$ </tspan><tspan class="command">cat ~/.config/class</tspan>
+  </text>
+  <text y="245" x="30" class="output">  ► <tspan class="emoji">⚔️</tspan>  Full-Stack Developer</text>
+
+  <!-- Line 3: ls skills -->
+  <text y="275" class="terminal-text">
+    <tspan x="30" class="prompt-user">rahul</tspan><tspan class="prompt-at">@</tspan><tspan class="prompt-host">dev</tspan><tspan class="prompt-colon">:</tspan><tspan class="prompt-path">~</tspan><tspan class="prompt-dollar">$ </tspan><tspan class="command">ls ./skills/</tspan>
+  </text>
+  <text y="295" x="30" class="terminal-text">
+    <tspan class="output">  frontend/   </tspan><tspan class="arrow">→</tspan><tspan class="output-dim"> React ⟐ Next.js ⟐ Tailwind</tspan>
+  </text>
+  <text y="315" x="30" class="terminal-text">
+    <tspan class="output">  backend/    </tspan><tspan class="arrow">→</tspan><tspan class="output-dim"> Node.js ⟐ Express ⟐ NestJS</tspan>
+  </text>
+  <text y="335" x="30" class="terminal-text">
+    <tspan class="output">  database/   </tspan><tspan class="arrow">→</tspan><tspan class="output-dim"> MongoDB ⟐ PostgreSQL ⟐ Redis</tspan>
+  </text>
+  <text y="355" x="30" class="terminal-text">
+    <tspan class="output">  cloud/      </tspan><tspan class="arrow">→</tspan><tspan class="output-dim"> AWS ⟐ Docker ⟐ Vercel</tspan>
+  </text>
+  <text y="375" x="30" class="terminal-text">
+    <tspan class="output">  linux/      </tspan><tspan class="arrow">→</tspan><tspan class="output-dim"> Ubuntu ⟐ Bash ⟐ CLI</tspan>
+  </text>
+
+  <!-- Line 4: cat quests -->
+  <text y="405" class="terminal-text">
+    <tspan x="30" class="prompt-user">rahul</tspan><tspan class="prompt-at">@</tspan><tspan class="prompt-host">dev</tspan><tspan class="prompt-colon">:</tspan><tspan class="prompt-path">~</tspan><tspan class="prompt-dollar">$ </tspan><tspan class="command">cat ./quests.log</tspan>
+  </text>
+  <text y="425" x="30" class="output">  <tspan class="emoji">[⚡]</tspan> Mastering System Design</text>
+  <text y="445" x="30" class="output">  <tspan class="emoji">[🏗️]</tspan> Building Scalable Web Apps</text>
+  <text y="465" x="30" class="output">  <tspan class="emoji">[🏆]</tspan> Winning Hackathons</text>
+  <text y="485" x="30" class="output">  <tspan class="emoji">[🌱]</tspan> Contributing to Open Source</text>
+
+  <!-- Line 5: echo routine -->
+  <text y="515" class="terminal-text">
+    <tspan x="30" class="prompt-user">rahul</tspan><tspan class="prompt-at">@</tspan><tspan class="prompt-host">dev</tspan><tspan class="prompt-colon">:</tspan><tspan class="prompt-path">~</tspan><tspan class="prompt-dollar">$ </tspan><tspan class="command">echo $DAILY_ROUTINE</tspan>
+  </text>
+  <text y="535" x="30" class="output">  Code → Build → Ship → Repeat <tspan class="emoji">🔁</tspan></text>
+
+</svg>
