@@ -40,28 +40,10 @@
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
+<img align="left" src="./assets/character-card.svg" width="50%"/>
 
+<br clear="both"/>
 <br/>
-
-<div align="center">
-<img src="./assets/character-card.svg" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-
-
-</div>
-
-<br/>
-
-<div align="center">
-
-
-
-</div>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━ CONNECT / SOCIALS ━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
@@ -69,9 +51,7 @@
 <div align="center">
 <br/>
 
-<a href="https://linkedin.com/in/Rahul-Joshi">
-<img src="https://img.shields.io/badge/%5B1%5D_LINKEDIN-00ff41?style=flat-square&logo=linkedin&logoColor=white&color=000000&labelColor=0a0a0a" alt="LinkedIn"/>
-</a>
+<a href="https://linkedin.com/in/Rahul-Joshi"><img src="https://img.shields.io/badge/%5B1%5D_LINKEDIN-00ff41?style=flat-square&logo=linkedin&logoColor=00ff41&color=0a0a0a&labelColor=0a0a0a" alt="LinkedIn"/></a>
 <a href="https://x.com/Rahul-Joshi"><img src="https://img.shields.io/badge/%5B2%5D_X_(TWITTER)-00ff41?style=flat-square&logo=x&logoColor=00ff41&color=0a0a0a&labelColor=0a0a0a" alt="X"/></a>
 <a href="mailto:rahuljoshi.uk02@gmail.com"><img src="https://img.shields.io/badge/%5B3%5D_GMAIL-00ff41?style=flat-square&logo=gmail&logoColor=00ff41&color=0a0a0a&labelColor=0a0a0a" alt="Gmail"/></a>
 <a href="https://github.com/R-Jhere"><img src="https://img.shields.io/badge/%5B4%5D_GITHUB-00ff41?style=flat-square&logo=github&logoColor=00ff41&color=0a0a0a&labelColor=0a0a0a" alt="GitHub"/></a>
@@ -182,9 +162,8 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Build+things+that+matter.+Ship+things+that+work.&author=Rahul+Joshi&border=true&border_color=00ff41" />
-<img src="https://quotes-github-readme.vercel.app/api?
-type=horizontal&theme=dark&quote=Intelligence+is+ the+ ability+ to+ avoid+ doing+ work, +yet+ getting+ the+ work+ done.&author=Linus+Torvalds&border=true&border_color=00ff41" />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Intelligence+is+the+ability+to+avoid+doing+work,+yet+getting+the+work+done.&author=Linus+Torvalds&border=true&border_color=00ff41" />
 
 <br/><br/>
 
