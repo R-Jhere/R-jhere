@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 580" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 600" fill="none">
 
   <defs>
     <pattern id="scanlines" patternUnits="userSpaceOnUse" width="480" height="4">
@@ -37,7 +37,7 @@
       .output { fill: #00ff41; }
       .output-dim { fill: #009926; }
       .arrow { fill: #00cc33; }
-      .emoji { font-family: 'Segoe UI Emoji', 'Noto Color Emoji', 'Apple Color Emoji', sans-serif; font-size: 12px; }
+      .comment { fill: #555555; }
       .title-bar-text {
         font-family: 'Fira Code', monospace;
         font-size: 11px;
@@ -56,7 +56,7 @@
 
   <!-- ══════════════ WINDOW FRAME ══════════════ -->
 
-  <rect x="0" y="0" width="480" height="580" rx="12" ry="12" fill="#0a0a0a" stroke="#00ff41" stroke-width="1.5" filter="url(#shadow)"/>
+  <rect x="0" y="0" width="480" height="600" rx="12" ry="12" fill="#0a0a0a" stroke="#00ff41" stroke-width="1.5" filter="url(#shadow)"/>
 
   <!-- Title bar -->
   <rect x="1" y="1" width="478" height="36" rx="11" ry="11" fill="#111111"/>
@@ -72,8 +72,8 @@
   <text x="240" y="23" text-anchor="middle" class="title-bar-text">rahul@dev — bash</text>
 
   <!-- Terminal body -->
-  <rect x="1" y="37" width="478" height="542" rx="0" ry="0" fill="#0a0a0a"/>
-  <rect x="1" y="568" width="478" height="12" rx="0" ry="12" fill="#0a0a0a"/>
+  <rect x="1" y="37" width="478" height="562" rx="0" ry="0" fill="#0a0a0a"/>
+  <rect x="1" y="588" width="478" height="12" rx="0" ry="12" fill="#0a0a0a"/>
 
   <!-- Scanline overlay -->
   <rect x="1" y="37" width="478" height="543" rx="0" fill="url(#scanlines)" opacity="0.5"/>
@@ -91,25 +91,25 @@
   <text y="122" class="terminal-text">
     <tspan x="20" class="prompt-user">rahul</tspan><tspan class="prompt-at">@</tspan><tspan class="prompt-host">dev</tspan><tspan class="prompt-colon">:</tspan><tspan class="prompt-path">~</tspan><tspan class="prompt-dollar">$ </tspan><tspan class="command">whoami</tspan>
   </text>
-  <text y="140" x="20" class="output">  ► Rahul Joshi (he/him)</text>
-  <text y="158" x="20" class="output">  ► <tspan class="emoji">📍</tspan> India <tspan class="emoji">🇮🇳</tspan></text>
-  <text y="176" x="20" class="output">  ► <tspan class="emoji">🎓</tspan> CS Engineering</text>
+  <text y="140" x="20" class="output">  -- name: "Rahul Joshi"</text>
+  <text y="158" x="20" class="output">  -- location: "India"</text>
+  <text y="176" x="20" class="output">  -- degree: "CS Engineering"</text>
 
   <!-- cat class -->
   <text y="203" class="terminal-text">
     <tspan x="20" class="prompt-user">rahul</tspan><tspan class="prompt-at">@</tspan><tspan class="prompt-host">dev</tspan><tspan class="prompt-colon">:</tspan><tspan class="prompt-path">~</tspan><tspan class="prompt-dollar">$ </tspan><tspan class="command">cat ~/.config/class</tspan>
   </text>
-  <text y="221" x="20" class="output">  ► <tspan class="emoji">⚔️</tspan>  Full-Stack Developer</text>
+  <text y="221" x="20" class="output">  Full-Stack Developer</text>
 
   <!-- ls skills -->
   <text y="248" class="terminal-text">
     <tspan x="20" class="prompt-user">rahul</tspan><tspan class="prompt-at">@</tspan><tspan class="prompt-host">dev</tspan><tspan class="prompt-colon">:</tspan><tspan class="prompt-path">~</tspan><tspan class="prompt-dollar">$ </tspan><tspan class="command">ls ./skills/</tspan>
   </text>
   <text y="266" x="20" class="terminal-text">
-    <tspan class="output">  frontend/ </tspan><tspan class="arrow">→</tspan><tspan class="output-dim"> React ⟐ Next.js</tspan>
+    <tspan class="output">  frontend/ </tspan><tspan class="arrow">→</tspan><tspan class="output-dim"> React ⟐ Next ⟐ Tailwind</tspan>
   </text>
   <text y="284" x="20" class="terminal-text">
-    <tspan class="output">  backend/  </tspan><tspan class="arrow">→</tspan><tspan class="output-dim"> Node ⟐ Express</tspan>
+    <tspan class="output">  backend/  </tspan><tspan class="arrow">→</tspan><tspan class="output-dim"> Node ⟐ Express ⟐ Django</tspan>
   </text>
   <text y="302" x="20" class="terminal-text">
     <tspan class="output">  database/ </tspan><tspan class="arrow">→</tspan><tspan class="output-dim"> Mongo ⟐ Postgres</tspan>
@@ -120,26 +120,29 @@
   <text y="338" x="20" class="terminal-text">
     <tspan class="output">  linux/    </tspan><tspan class="arrow">→</tspan><tspan class="output-dim"> Ubuntu ⟐ Bash</tspan>
   </text>
+  <text y="356" x="20" class="terminal-text">
+    <tspan class="output">  iot/      </tspan><tspan class="arrow">→</tspan><tspan class="output-dim"> Arduino ⟐ RPi ⟐ ESP32</tspan>
+  </text>
 
   <!-- cat quests -->
-  <text y="365" class="terminal-text">
+  <text y="383" class="terminal-text">
     <tspan x="20" class="prompt-user">rahul</tspan><tspan class="prompt-at">@</tspan><tspan class="prompt-host">dev</tspan><tspan class="prompt-colon">:</tspan><tspan class="prompt-path">~</tspan><tspan class="prompt-dollar">$ </tspan><tspan class="command">cat ./quests.log</tspan>
   </text>
-  <text y="383" x="20" class="output">  <tspan class="emoji">[⚡]</tspan> System Design</text>
-  <text y="401" x="20" class="output">  <tspan class="emoji">[🏗️]</tspan> Scalable Web Apps</text>
-  <text y="419" x="20" class="output">  <tspan class="emoji">[🏆]</tspan> Winning Hackathons</text>
-  <text y="437" x="20" class="output">  <tspan class="emoji">[🌱]</tspan> Open Source</text>
+  <text y="401" x="20" class="output">  <tspan class="command">[+]</tspan> System Design</text>
+  <text y="419" x="20" class="output">  <tspan class="command">[+]</tspan> Scalable Web Apps</text>
+  <text y="437" x="20" class="output">  <tspan class="command">[+]</tspan> Winning Hackathons</text>
+  <text y="455" x="20" class="output">  <tspan class="command">[*]</tspan> Open Source</text>
 
   <!-- echo routine -->
-  <text y="464" class="terminal-text">
+  <text y="482" class="terminal-text">
     <tspan x="20" class="prompt-user">rahul</tspan><tspan class="prompt-at">@</tspan><tspan class="prompt-host">dev</tspan><tspan class="prompt-colon">:</tspan><tspan class="prompt-path">~</tspan><tspan class="prompt-dollar">$ </tspan><tspan class="command">echo $DAILY_ROUTINE</tspan>
   </text>
-  <text y="482" x="20" class="output">  Code → Build → Ship → Repeat <tspan class="emoji">🔁</tspan></text>
+  <text y="500" x="20" class="output">  "Code → Build → Ship → Repeat"</text>
 
   <!-- Waiting prompt with blinking cursor -->
-  <text y="512" class="terminal-text">
+  <text y="530" class="terminal-text">
     <tspan x="20" class="prompt-user">rahul</tspan><tspan class="prompt-at">@</tspan><tspan class="prompt-host">dev</tspan><tspan class="prompt-colon">:</tspan><tspan class="prompt-path">~</tspan><tspan class="prompt-dollar">$ </tspan>
   </text>
-  <rect x="135" y="501" width="8" height="15" fill="#00ff41" class="cursor"/>
+  <rect x="135" y="519" width="8" height="15" fill="#00ff41" class="cursor"/>
 
 </svg>
