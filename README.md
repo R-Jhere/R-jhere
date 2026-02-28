@@ -110,7 +110,7 @@ hobbies:
 
 <div align="center">
 
-[![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=R-Jhere&theme=merko_border=false&bg_color=0d1117&color=00f5ff&line=7b2ff7&point=ff006e&area=true&area_color=7b2ff720)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=R-Jhere&theme=tokyo-night&hide_border=false&bg_color=0d1117&color=00f5ff&line=7b2ff7&point=ff006e&area=true&area_color=7b2ff720)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
