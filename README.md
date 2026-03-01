@@ -140,10 +140,4 @@
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Intelligence+is+the+ability+to+avoid+doing+work,+yet+getting+the+work+done.&author=Linus+Torvalds&border=true&border_color=00ff41" />
 
-<br/><br/>
-
-</div>
-
-<div align="center">
-
 </div>
