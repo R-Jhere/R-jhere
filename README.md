@@ -35,16 +35,12 @@
 </div>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━ CHARACTER CARD ━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<br/>
-
 <img align="left" src="./assets/lap.png" width="100%"/>
 
 <img align="left" src="./assets/character-card.svg" width="100%"/>
 
 <br clear="both"/>
 <br/>
-
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━ CONNECT / SOCIALS ━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 
