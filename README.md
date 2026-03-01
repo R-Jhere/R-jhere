@@ -33,35 +33,25 @@
 ![GitHub stars](https://img.shields.io/github/stars/R-Jhere?style=flat-square&logo=github&logoColor=00ff41&labelColor=0a0a0a&color=E5E7EB)
 
 </div>
-
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━ CHARACTER CARD ━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <img align="left" src="./assets/lap.png" width="100%"/>
 
 <img align="left" src="./assets/character-card.svg" width="100%"/>
-
 <br clear="both"/>
 <br/>
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━ CONNECT / SOCIALS ━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-
 <div align="center">
 <br/>
-
 <a href="https://linkedin.com/in/Rahul-Joshi"><img src="https://img.shields.io/badge/%5B1%5D_LINKEDIN-00ff41?style=flat-square&logo=linkedin&logoColor=00ff41&color=0a0a0a&labelColor=0a0a0a" alt="LinkedIn"/></a>
 <a href="https://x.com/Rahul-Joshi"><img src="https://img.shields.io/badge/%5B2%5D_X_(TWITTER)-00ff41?style=flat-square&logo=x&logoColor=00ff41&color=0a0a0a&labelColor=0a0a0a" alt="X"/></a>
 <a href="mailto:rahuljoshi.uk02@gmail.com"><img src="https://img.shields.io/badge/%5B3%5D_GMAIL-00ff41?style=flat-square&logo=gmail&logoColor=00ff41&color=0a0a0a&labelColor=0a0a0a" alt="Gmail"/></a>
 <a href="https://github.com/R-Jhere"><img src="https://img.shields.io/badge/%5B4%5D_GITHUB-00ff41?style=flat-square&logo=github&logoColor=00ff41&color=0a0a0a&labelColor=0a0a0a" alt="GitHub"/></a>
 
-<br/><br/>
+<div align="center">
 
 > 💬 *`> DMs are always open... Let's build something epic together_`*
 
 <br/>
-</div>
-
-<div align="center">
-
-
 </div>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━ TECH STACK ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
@@ -100,29 +90,14 @@
 <br/>
 </div>
 
-<div align="center">
-
-</div>
-
-<div align="center">
-<br/>
-
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=R-Jhere&theme=dark&hide_border=false&background=0a0a0a&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=00ff41&sideNums=00ff41&dates=006600&border=00ff41" height="190"/>
 
 </div>
-
-<div align="center">
-
-</div>
 <div align="center">
 
 [![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=R-Jhere&theme=green&hide_border=false&bg_color=0a0a0a&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4120)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<div align="center">
 
 </div>
 <div align="center">
@@ -131,10 +106,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   </picture>
-</div>
-
-<div align="center">
-
 </div>
 
 <div align="center">
