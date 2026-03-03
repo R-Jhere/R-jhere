@@ -101,11 +101,6 @@
 <br/>
 </div>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━ DIVIDER ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━ GITHUB STATS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
@@ -123,12 +118,6 @@
 
 [![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=R-Jhere&theme=green&hide_border=false&bg_color=0a0a0a&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4120)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━ DIVIDER ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <!-- ━━━━━━━━━━━━━━━ SNAKE ANIMATION ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
@@ -154,11 +143,6 @@
 
 </div>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━ DIVIDER ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━ QUOTE ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
