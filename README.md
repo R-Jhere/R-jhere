@@ -1,5 +1,4 @@
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━ HEADER BANNER ━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
 <div align="center">
 <img src="./assets/header-banner.svg" width="100%"/>
 </div>
