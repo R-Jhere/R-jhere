@@ -27,7 +27,7 @@
 
 <br/><br/>
 
-[![](https://visitcount.itsvg.in/api?id=R-Jhere&icon=6&color=3)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=R-Jhere&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/R-Jhere?style=flat-square&logo=github&logoColor=00ff41&labelColor=0a0a0a&color=E5E7EB)
 ![GitHub stars](https://img.shields.io/github/stars/R-Jhere?style=flat-square&logo=github&logoColor=00ff41&labelColor=0a0a0a&color=E5E7EB)
 
