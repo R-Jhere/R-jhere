@@ -3,6 +3,7 @@
 <div align="center">
 <img src="./assets/header-banner.svg" width="100%"/>
 </div>
+
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━ TYPING ANIMATION ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
@@ -58,6 +59,12 @@
 <br/>
 </div>
 
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━ DIVIDER ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━ TECH STACK ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 
@@ -94,9 +101,22 @@
 <br/>
 </div>
 
-<br/><br/>
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━ DIVIDER ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━ GITHUB STATS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=R-Jhere&theme=dark&hide_border=false&background=0a0a0a&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=00ff41&sideNums=00ff41&dates=006600&border=00ff41&cache_seconds=1800" height="190"/>
+<img src="https://github-readme-stats.vercel.app/api?username=R-Jhere&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=00ff41&text_color=00ff41&icon_color=00ff41&border_color=00ff41&hide_border=false&cache_seconds=1800" height="190"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Jhere&layout=compact&theme=dark&bg_color=0a0a0a&title_color=00ff41&text_color=00ff41&border_color=00ff41&hide_border=false&cache_seconds=1800" height="170"/>
 
 </div>
 <div align="center">
@@ -104,13 +124,43 @@
 [![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=R-Jhere&theme=green&hide_border=false&bg_color=0a0a0a&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4120)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━ DIVIDER ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- ━━━━━━━━━━━━━━━ SNAKE ANIMATION ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/R-Jhere/R-Jhere/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/R-Jhere/R-Jhere/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/R-Jhere/R-Jhere/output/github-snake-dark.svg" />
   </picture>
 </div>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━ SPOTIFY ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/%F0%9F%8E%B5_NOW_PLAYING-00ff41?style=flat-square&labelColor=0a0a0a&color=0a0a0a" />
+<br/><br/>
+
+<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0a0a0a&interchange=true&bar_color=00ff41&bar_color_cover=true" alt="Spotify Now Playing" width="400"/>
+</a>
+
+</div>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━ DIVIDER ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━ QUOTE ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Intelligence+is+the+ability+to+avoid+doing+work,+yet+getting+the+work+done.&author=Linus+Torvalds&border=true&border_color=00ff41" />
