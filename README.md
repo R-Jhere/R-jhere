@@ -130,18 +130,8 @@
   </picture>
 </div>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━ SPOTIFY ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<div align="center">
 
-<img src="https://img.shields.io/badge/%F0%9F%8E%B5_NOW_PLAYING-00ff41?style=flat-square&labelColor=0a0a0a&color=0a0a0a" />
-<br/><br/>
-
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0a0a0a&interchange=true&bar_color=00ff41&bar_color_cover=true" alt="Spotify Now Playing" width="400"/>
-</a>
-
-</div>
 
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━ QUOTE ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
