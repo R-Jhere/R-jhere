@@ -27,7 +27,7 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=R-Jhere&style=flat-square&color=E5E7EB&labelColor=0a0a0a&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=R-Jhere&style=flat-square&logo=github&logoColor=00ff41&labelColor=0a0a0a&color=E5E7EB&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/R-Jhere?style=flat-square&logo=github&logoColor=00ff41&labelColor=0a0a0a&color=E5E7EB)
 ![GitHub stars](https://img.shields.io/github/stars/R-Jhere?style=flat-square&logo=github&logoColor=00ff41&labelColor=0a0a0a&color=E5E7EB)
 
