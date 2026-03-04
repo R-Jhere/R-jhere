@@ -100,16 +100,7 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=R-Jhere&theme=dark&hide_border=false&background=0a0a0a&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=00ff41&sideNums=00ff41&dates=006600&border=00ff41&cache_seconds=1800" height="190"/>
-<img src="https://github-readme-stats.vercel.app/api?username=R-Jhere&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=00ff41&text_color=00ff41&icon_color=00ff41&border_color=00ff41&hide_border=false&cache_seconds=1800" height="190"/>
-
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Jhere&layout=compact&theme=dark&bg_color=0a0a0a&title_color=00ff41&text_color=00ff41&border_color=00ff41&hide_border=false&cache_seconds=1800" height="170"/>
-
-</div>
-<div align="center">
-
-[![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=R-Jhere&theme=green&hide_border=false&bg_color=0a0a0a&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4120)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
