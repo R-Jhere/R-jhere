@@ -21,13 +21,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/%E2%9A%94_CLASS-FULL_STACK_DEV-E5E7EB?style=flat-square&labelColor=0a0a0a">
-<img src="https://img.shields.io/badge/%F0%9F%8E%AE_LEVEL-22-E5E7EB?style=flat-square&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/%F0%9F%8C%8D_SERVER-INDIA-E5E7EB?style=flat-square&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/%F0%9F%8E%AF_XP-%E2%88%9E_&_COUNTING-E5E7EB?style=flat-square&labelColor=0a0a0a" />
-
-<br/><br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=R-Jhere&style=flat-square&color=000000&labelColor=000000)
 ![GitHub followers](https://img.shields.io/github/followers/R-Jhere?style=flat-square&logo=github&logoColor=00ff41&labelColor=0a0a0a&color=E5E7EB)
 ![GitHub stars](https://img.shields.io/github/stars/R-Jhere?style=flat-square&logo=github&logoColor=00ff41&labelColor=0a0a0a&color=E5E7EB)
@@ -35,7 +28,7 @@
 </div>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━ CHARACTER CARD ━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<img align="left" src="./assets/lap.png" width="100%"/>
+
 
 <img align="left" src="./assets/character-card.svg" width="100%"/>
 
