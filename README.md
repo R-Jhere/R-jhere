@@ -58,43 +58,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━ TECH STACK ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/%E2%9A%94_WEAPONS_(Languages)-00ff41?style=flat-square&labelColor=0a0a0a&color=0a0a0a" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,html,css,java&perline=8" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/%F0%9F%9B%A1_ARMOR_(Frontend)-00ff41?style=flat-square&labelColor=0a0a0a&color=0a0a0a" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,vite,redux&perline=8" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/%E2%9A%99_ENGINE_(Backend)-00ff41?style=flat-square&labelColor=0a0a0a&color=0a0a0a" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,flask&perline=8" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/%F0%9F%8F%B0_DUNGEONS_(Databases)-00ff41?style=flat-square&labelColor=0a0a0a&color=0a0a0a" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,sqlite,supabase,postgres&perline=8" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/%E2%98%81_CLOUD_%26_INVENTORY_(Tools)-00ff41?style=flat-square&labelColor=0a0a0a&color=0a0a0a" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,git,github,figma,docker,linux&perline=8" />
-
-<br/>
-</div>
-
-
 <!-- ━━━━━━━━━━━━━━━━━━━━━ GITHUB STATS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
