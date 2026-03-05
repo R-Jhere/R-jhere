@@ -22,7 +22,7 @@
 <div align="center">
 <br/>
 
-<a href="mailto:rahuljoshi.uk02@gmail.com"><img src="https://img.shields.io/badge/%5B3%5D_GMAIL-00ff41?style=flat-square&logo=gmail&logoColor=00ff41&color=0a0a0a&labelColor=0a0a0a" alt="Gmail"/></a>
+<a href="mailto:rahuljoshi.uk02@gmail.com"><img src="./assets/mail-button.svg" alt="Initiate Comms"/></a>
 
 <div/>
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━ CHARACTER CARD ━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
