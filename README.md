@@ -16,14 +16,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/R-Jhere?style=flat-square&logo=github&logoColor=00ff41&labelColor=0a0a0a&color=E5E7EB)
 
 </div>
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━ CHARACTER CARD ━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-
-<img align="left" src="./assets/character-card.svg" width="100%"/>
-
-<br clear="both"/>
-<br/>
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━ CONNECT / SOCIALS ━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 
@@ -33,13 +25,14 @@
 <a href="https://linkedin.com/in/rjhere"><img src="https://img.shields.io/badge/%5B1%5D_LINKEDIN-00ff41?style=flat-square&logo=linkedin&logoColor=00ff41&color=0a0a0a&labelColor=0a0a0a" alt="LinkedIn"/></a>
 <a href="https://x.com/RJ_here01"><img src="https://img.shields.io/badge/%5B2%5D_X_(TWITTER)-00ff41?style=flat-square&logo=x&logoColor=00ff41&color=0a0a0a&labelColor=0a0a0a" alt="X"/></a>
 <a href="mailto:rahuljoshi.uk02@gmail.com"><img src="https://img.shields.io/badge/%5B3%5D_GMAIL-00ff41?style=flat-square&logo=gmail&logoColor=00ff41&color=0a0a0a&labelColor=0a0a0a" alt="Gmail"/></a>
-<a href="https://github.com/R-Jhere"><img src="https://img.shields.io/badge/%5B4%5D_GITHUB-00ff41?style=flat-square&logo=github&logoColor=00ff41&color=0a0a0a&labelColor=0a0a0a" alt="GitHub"/></a>
 
-<div align="center">
+<div/>
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━ CHARACTER CARD ━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-> 💬 *`> DMs are always open... Let's build something epic together_`*
 
-</div>
+<img align="left" src="./assets/character-card.svg" width="100%"/>
+
+
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━ TYPING ANIMATION ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
