@@ -4,16 +4,6 @@
 <img src="./assets/header-banner.svg" width="100%"/>
 </div>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━ TYPING ANIMATION ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<div align="center">
-<br/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=80&lines=%3E+Level+22+Developer+%E2%80%A2+XP%3A+Building+%26+Shipping+Daily;%3E+Quests%3A+Full+Stack+%7C+System+Design+%7C+Open+Source;%3E+Status%3A+Compiling+dreams+into+production+code...">
-</a>
-
-</div>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━ RPG STAT BADGES ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
@@ -49,14 +39,18 @@
 
 > 💬 *`> DMs are always open... Let's build something epic together_`*
 
-<br/>
 </div>
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━ DIVIDER ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━ TYPING ANIMATION ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=80&lines=%3E+Level+22+Developer+%E2%80%A2+XP%3A+Building+%26+Shipping+Daily;%3E+Quests%3A+Full+Stack+%7C+System+Design+%7C+Open+Source;%3E+Status%3A+Compiling+dreams+into+production+code...">
+</a>
+
 </div>
+
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━ GITHUB STATS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
