@@ -22,8 +22,6 @@
 <div align="center">
 <br/>
 
-<a href="https://linkedin.com/in/rjhere"><img src="https://img.shields.io/badge/%5B1%5D_LINKEDIN-00ff41?style=flat-square&logo=linkedin&logoColor=00ff41&color=0a0a0a&labelColor=0a0a0a" alt="LinkedIn"/></a>
-<a href="https://x.com/RJ_here01"><img src="https://img.shields.io/badge/%5B2%5D_X_(TWITTER)-00ff41?style=flat-square&logo=x&logoColor=00ff41&color=0a0a0a&labelColor=0a0a0a" alt="X"/></a>
 <a href="mailto:rahuljoshi.uk02@gmail.com"><img src="https://img.shields.io/badge/%5B3%5D_GMAIL-00ff41?style=flat-square&logo=gmail&logoColor=00ff41&color=0a0a0a&labelColor=0a0a0a" alt="Gmail"/></a>
 
 <div/>
