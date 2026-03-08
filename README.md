@@ -14,7 +14,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=R-Jhere&style=flat-square&color=000000&labelColor=000000)
 ![GitHub followers](https://img.shields.io/github/followers/R-Jhere?style=flat-square&logo=github&logoColor=00ff41&labelColor=0a0a0a&color=E5E7EB)
 ![GitHub stars](https://img.shields.io/github/stars/R-Jhere?style=flat-square&logo=github&logoColor=00ff41&labelColor=0a0a0a&color=E5E7EB)
-
 </div>
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━ CONNECT / SOCIALS ━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
