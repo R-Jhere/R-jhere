@@ -167,7 +167,7 @@
 
   <!-- Level badge top-right -->
   <g transform="translate(910, 22)" filter="url(#pixelGlow)">
-    <text class="label" font-size="9" fill="#00ff41">LV.22</text>
+    <text class="label" font-size="9" fill="#00ff41">LV.20</text>
   </g>
 
   <!-- Scanline overlay -->
