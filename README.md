@@ -2,6 +2,12 @@
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━ RPG STAT BADGES ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━ CHARACTER CARD ━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+
+<img align="left" src="./assets/character-card.svg" width="100%"/>
+
+
 <div align="center">
 
 <br/>
@@ -19,10 +25,6 @@
 <a href="mailto:rahuljoshi.uk02@gmail.com"><img src="./assets/mail-button.svg" alt="Initiate Comms"/></a>
 
 <div/>
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━ CHARACTER CARD ━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-
-<img align="left" src="./assets/character-card.svg" width="100%"/>
 
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━ TYPING ANIMATION ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
